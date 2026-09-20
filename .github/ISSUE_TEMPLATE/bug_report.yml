@@ -1,0 +1,44 @@
+name: Reproducibility or analysis issue
+description: Report a problem with code, data processing, model behavior, or published outputs.
+title: "[Issue]: "
+labels: [triage]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Data preparation
+        - Optimization model
+        - Statistical analysis
+        - Figure or table
+        - Documentation
+        - Environment or dependencies
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem description
+      description: Describe the observed behavior and why it appears incorrect.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+      description: Include the command, configuration change, and smallest sequence that reproduces the issue.
+      placeholder: |
+        1. Create the documented environment
+        2. Run ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, Python version, relevant package versions, and solver information.
+    validations:
+      required: true

@@ -1,0 +1,12 @@
+parameter,symbol,base_value,unit,source_or_rationale,sensitivity_range
+EV-days per day,N,500.0,EV/day,Study design,—
+Time step,Δt,15.0,min,Study design,—
+Minimum SOC,SOCmin,0.2,fraction,Operational assumption,—
+Maximum SOC,SOCmax,0.95,fraction,Operational assumption,—
+Nominal target SOC,SOCstandard,0.8,fraction,User-energy assumption,0.70–0.90
+Mobility reserve,SOCreserve,0.15,fraction,Conservative mobility reserve,—
+Round-trip efficiency,ηrt,0.9,fraction,Technical assumption,0.80–0.95
+Charging power,"Pch,max",7.2,kW,Level-2 workplace charging,3.6–11
+Discharging power,"Pdis,max",7.2,kW,Symmetric V2G interface,3.6–11
+Session export cap,"Edis,max/B",0.25,fraction,Conservative cycling limit,—
+Bootstrap draws,B,2000.0,draws,Study design,—

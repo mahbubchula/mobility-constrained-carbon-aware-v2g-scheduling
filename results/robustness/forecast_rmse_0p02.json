@@ -1,0 +1,23 @@
+{
+  "case": "forecast_rmse_0p02",
+  "category": "forecast_error",
+  "value": "AR(1) RMSE 0.02 kg CO2e/kWh",
+  "n_days": 61,
+  "n_ev_days": 30500,
+  "smart_carbon_kg": 30254.46113818234,
+  "v2g_carbon_kg": 32132.697475370383,
+  "incremental_saving_kg": -1878.236337188042,
+  "incremental_saving_percent": -6.2081301947818615,
+  "v2g_import_kwh": 406672.7359475033,
+  "v2g_export_kwh": 226773.31699310426,
+  "active_share_percent": 93.0983606557377,
+  "max_import_kw": 3384.053194587765,
+  "max_export_kw": 3265.426271800696,
+  "max_abs_ramp_kw_per_15min": 5826.45305062322,
+  "ready_30min_early_percent": 77.93442622950819,
+  "ready_60min_early_percent": 72.47868852459017,
+  "forecast_requested_rmse": 0.02,
+  "forecast_realized_rmse": 0.01951510211899669,
+  "forecast_realized_mae": 0.015667860729827798,
+  "forecast_correlation": 0.9502845709648755
+}

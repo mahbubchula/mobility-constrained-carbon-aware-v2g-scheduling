@@ -1,0 +1,21 @@
+\begin{tabular}{lrrrrrrr}
+\toprule
+scenario & n_days & incremental_saving_kg & incremental_saving_percent & v2g_export_kwh & active_share_percent & max_import_kw & max_export_kw \\
+\midrule
+Base (full year) & 365 & 13633.14 & 7.88 & 506824.63 & 43.09 & 3155.55 & 2967.45 \\
+Base (61-day panel) & 61 & 1917.43 & 6.49 & 72969.77 & 38.66 & 2968.96 & 1693.08 \\
+Relaxed provenance (full year) & 365 & 40574.00 & 23.47 & 1276668.12 & 76.56 & 3340.76 & 2972.40 \\
+2 MW feeder + 0.5 MW/15-min ramp (full year) & 365 & 13043.82 & 7.54 & 473386.87 & 41.36 & 2000.00 & 2000.00 \\
+Export penalty 0.01 kg/kWh & 61 & 1813.97 & 6.14 & 50680.36 & 27.21 & 2552.54 & 1686.67 \\
+Export penalty 0.03 kg/kWh & 61 & 1348.54 & 4.56 & 26386.30 & 14.29 & 2530.59 & 1213.86 \\
+Export penalty 0.05 kg/kWh & 61 & 708.75 & 2.40 & 10546.19 & 6.19 & 2145.75 & 690.03 \\
+10% battery export cap & 61 & 1578.48 & 5.34 & 59654.51 & 38.66 & 2928.57 & 1533.98 \\
+50% battery export cap & 61 & 1917.43 & 6.49 & 72969.77 & 38.66 & 2963.32 & 1708.36 \\
+Asymmetric efficiency (0.960/0.9375) & 61 & 1905.56 & 6.53 & 72501.06 & 38.71 & 2966.24 & 1687.29 \\
+Asymmetric efficiency (0.9375/0.960) & 61 & 1929.36 & 6.45 & 73440.82 & 38.62 & 2971.71 & 1699.20 \\
+Forecast RMSE 0.02 kg/kWh & 61 & -1878.24 & -6.21 & 226773.32 & 93.10 & 3384.05 & 3265.43 \\
+Forecast RMSE 0.05 kg/kWh & 61 & -7382.03 & -23.96 & 370070.14 & 99.09 & 3390.32 & 3322.49 \\
+All-compact fleet & 61 & 1591.03 & 6.54 & 60353.30 & 39.52 & 2782.39 & 1660.64 \\
+All-large fleet & 61 & 2279.76 & 6.28 & 87676.37 & 38.34 & 3092.09 & 1979.67 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,63 @@
+seed: 20260821
+study_year: 2025
+n_evs_per_day: 500
+n_days: 365
+time_step_minutes: 15
+
+calibration_fraction: 0.70
+arrival_perturbation_sd_minutes: 15
+departure_perturbation_sd_minutes: 15
+time_perturbation_limit_minutes: 45
+distance_log_perturbation_sd: 0.05
+energy_intensity_relative_sd: 0.05
+
+soc_min: 0.20
+soc_max: 0.95
+soc_standard_target: 0.80
+soc_reserve: 0.15
+home_soc_mean: 0.80
+home_soc_sd: 0.08
+home_soc_lower: 0.55
+home_soc_upper: 0.95
+
+round_trip_efficiency: 0.90
+charging_power_kw: 7.2
+discharging_power_kw: 7.2
+minimum_sensitivity_power_kw: 3.6
+v2g_max_discharge_fraction_capacity: 0.25
+same_session_provenance: true
+v2g_export_penalty_kg_per_kwh: 0.0
+fleet_import_limit_kw: null
+fleet_export_limit_kw: null
+fleet_ramp_limit_kw_per_interval: null
+
+bootstrap_repetitions: 2000
+participation_repetitions: 100
+solver: appsi_highs
+solver_tolerance: 1.0e-7
+n_workers: 8
+
+efficiency_sensitivity: [0.80, 0.85, 0.90, 0.95]
+power_sensitivity_kw: [3.6, 7.2, 11.0]
+participation_sensitivity: [0.25, 0.50, 0.75, 1.00]
+departure_target_sensitivity: [0.70, 0.80, 0.90]
+
+vehicle_archetypes:
+  compact:
+    battery_kwh: 45
+    energy_kwh_per_km: 0.16
+    share: 0.30
+  medium:
+    battery_kwh: 65
+    energy_kwh_per_km: 0.19
+    share: 0.50
+  large:
+    battery_kwh: 85
+    energy_kwh_per_km: 0.23
+    share: 0.20
+
+data_urls:
+  nhts_csv: https://nhts.ornl.gov/media/2022/download/csv.zip
+  nhts_codebook_xlsx: https://nhts.ornl.gov/media/2022/doc/codebook.xlsx
+  nhts_codebook_pdf: https://nhts.ornl.gov/media/2022/doc/codebook.pdf
+  caiso_template: https://www.caiso.com/documents/average-emissions-rate-report-{month}-2025.xlsx

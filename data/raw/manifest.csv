@@ -1,0 +1,22 @@
+source_name,filename,download_date,coverage_period,file_size_bytes,sha256
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/Citation.pdf,2026-08-22,2022 survey,49313,a419325e1632fbf9d36ead1c6bf2b50841e00bbc43599012cea06dd364fdb956
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/hhv2pub.csv,2026-08-22,2022 survey,1767471,d459a63d9bf818f38ea4a222fc0ae038e78509011cba3233762abd39d785745b
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/ldtv2pub.csv,2026-08-22,2022 survey,6418788,523da0b5778061e1c405d3c656c30184e1e366dc913fd369c135fa7ca29baad8
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/nhts_2022_v2_1_codebook.pdf,2026-08-22,2022 survey,453941,6ddd68673a115c2ad7da58990c532e0d80752a9141f3372db663637003bcfc62
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/nhts_2022_v2_1_codebook.xlsx,2026-08-22,2022 survey,163714,7e10ff62be0a72b03528f2469e8da850b335b7d761cf6efdfe9eba9b8a513d96
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/nhts_2022_v2_1_csv.zip,2026-08-22,2022 survey,4533528,64530c396d5f164d2259a22f7042f27bee5147babcd367568ddbfafe6c8bf34c
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/perv2pub.csv,2026-08-22,2022 survey,12473819,fa4d816ccd4d1975ff8afd394ce50b1d2326fa2c0b07b8d7f36636ea670fd89c
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/tripv2pub.csv,2026-08-22,2022 survey,17505566,f821357ffbab035a4a6704f575cfd20cd7eb4d2f890bd69e1345776377a66c82
+FHWA 2022 NextGen NHTS V2.1,data/raw/nhts/vehv2pub.csv,2026-08-22,2022 survey,4455967,eb7bc61dde5f81d08b2437a053aff2eabe9575a6befbfed6bc9a36159c23b52a
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-april-2025.xlsx,2026-08-22,April 2025,101897,67bc85626a341bf0440a513499e623742c47bcf546929e3316ab409640cd0479
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-august-2025.xlsx,2026-08-22,August 2025,105810,b2f3dedf083cdb126467947205b93cd01a41065a0cc30f5ade7a2b05e2fac418
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-december-2025.xlsx,2026-08-22,December 2025,104045,4c1807e3d3ad5abf0dc13cae88da9262e344d4b0b283c001382d10d6d4f304cb
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-february-2025.xlsx,2026-08-22,February 2025,99192,822a3c429764a0d1c54e57f17f168110c9a3e23b3218dc77a8f841df4180d3b8
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-january-2025.xlsx,2026-08-22,January 2025,104334,8529976a4caf6312452af75bd90cb96d772622ca50d95e4155737538c3ea74c9
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-july-2025.xlsx,2026-08-22,July 2025,105105,b1fb50480a9c8475c0c86f90f2384bf65e98b0a137b67fe846f5aa10e1432d94
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-june-2025.xlsx,2026-08-22,June 2025,102946,caca22fe29ca9da70c72b918281ff4fcc9a794d4a4dd85b71278071a222b10d2
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-march-2025.xlsx,2026-08-22,March 2025,103964,94cce95276021414ce89c346861605fc463ef884c1a866df0fac81dfd601e7a1
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-may-2025.xlsx,2026-08-22,May 2025,104103,841ba0116448b6ab8a731527e34007b9abe2874b00af56411f874997094359a1
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-november-2025.xlsx,2026-08-22,November 2025,103694,adf25f895df34d4c4b336ee4af40de59b8832e71f2297048b62db96c45239aef
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-october-2025.xlsx,2026-08-22,October 2025,104913,6a42d4e97c426203fab5c44d27d327cb4f38d7f1ca2552b54a7c612dcd87890a
+California ISO Average Emissions Rate,data/raw/caiso/average-emissions-rate-report-september-2025.xlsx,2026-08-22,September 2025,104203,d2f857832ed9fdaf5ac3ee929450ad2c09b6c860349853ea23de63c2834d2458

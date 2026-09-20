@@ -1,0 +1,19 @@
+{
+  "case": "feeder_2mw_ramp_0p5mw",
+  "category": "feeder",
+  "value": "\u00b12 MW; 0.5 MW/15-min ramp",
+  "n_days": 365,
+  "n_ev_days": 182500,
+  "smart_carbon_kg": 173042.3627879587,
+  "v2g_carbon_kg": 159998.5417997845,
+  "incremental_saving_kg": 13043.820988174208,
+  "incremental_saving_percent": 7.537935091742675,
+  "v2g_import_kwh": 1451032.1045684896,
+  "v2g_export_kwh": 473386.8740417553,
+  "active_share_percent": 41.360547945205475,
+  "max_import_kw": 2000.000000000011,
+  "max_export_kw": 2000.0,
+  "max_abs_ramp_kw_per_15min": 500.000000000005,
+  "ready_30min_early_percent": 86.05808219178083,
+  "ready_60min_early_percent": 80.9172602739726
+}

@@ -1,0 +1,19 @@
+{
+  "case": "battery_all_compact",
+  "category": "battery_archetype",
+  "value": "100% compact",
+  "n_days": 61,
+  "n_ev_days": 30500,
+  "smart_carbon_kg": 24312.251404555886,
+  "v2g_carbon_kg": 22721.218258545585,
+  "incremental_saving_kg": 1591.0331460103007,
+  "incremental_saving_percent": 6.5441621161919885,
+  "v2g_import_kwh": 194341.8174602199,
+  "v2g_export_kwh": 60353.2973963672,
+  "active_share_percent": 39.52459016393443,
+  "max_import_kw": 2782.3948304060073,
+  "max_export_kw": 1660.635566900987,
+  "max_abs_ramp_kw_per_15min": 2989.203802840764,
+  "ready_30min_early_percent": 85.7344262295082,
+  "ready_60min_early_percent": 79.67868852459017
+}

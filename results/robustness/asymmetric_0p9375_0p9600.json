@@ -1,0 +1,19 @@
+{
+  "case": "asymmetric_0p9375_0p9600",
+  "category": "asymmetric_efficiency",
+  "value": "higher discharge efficiency",
+  "n_days": 61,
+  "n_ev_days": 30500,
+  "smart_carbon_kg": 29907.814110827272,
+  "v2g_carbon_kg": 27978.456299338723,
+  "incremental_saving_kg": 1929.3578114885495,
+  "incremental_saving_percent": 6.451015792525206,
+  "v2g_import_kwh": 238148.71608526568,
+  "v2g_export_kwh": 73440.81956533644,
+  "active_share_percent": 38.62295081967213,
+  "max_import_kw": 2971.707761892046,
+  "max_export_kw": 1699.1975260907739,
+  "max_abs_ramp_kw_per_15min": 3094.9529210001256,
+  "ready_30min_early_percent": 84.71803278688525,
+  "ready_60min_early_percent": 78.87868852459017
+}

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite this repository."
+title: "Mobility-Constrained Carbon-Aware G2V and V2G Scheduling"
+type: software
+version: 1.0.0
+date-released: 2026-09-21
+repository-code: "https://github.com/mahbubchula/mobility-constrained-carbon-aware-v2g-scheduling"
+authors:
+  - family-names: Almajed
+    given-names: Mohammed
+    email: 226029411@student.kfu.edu.sa
+  - family-names: Hassan
+    given-names: Mahbub
+  - family-names: Ray
+    given-names: Sumon Chandra
+  - family-names: Islam
+    given-names: Md Ashequl
+    email: mdashequl.islam@adelaide.edu.au
+  - family-names: Haque
+    given-names: Md Ehtesamul
+  - family-names: Haque
+    given-names: Asrar U.
+abstract: >-
+  Reproducible software and research artifacts for comparing uncontrolled EV
+  charging, carbon-aware smart charging, and mobility-constrained bidirectional
+  vehicle-to-grid scheduling under operational, infrastructure, participation,
+  forecast-error, and battery-degradation uncertainty.
+keywords:
+  - vehicle-to-grid
+  - electric vehicles
+  - smart charging
+  - carbon-aware scheduling
+  - energy systems optimization
+  - reproducible research

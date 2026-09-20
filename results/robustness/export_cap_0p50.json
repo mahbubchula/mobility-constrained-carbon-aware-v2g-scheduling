@@ -1,0 +1,19 @@
+{
+  "case": "export_cap_0p50",
+  "category": "export_cap",
+  "value": "0.50 B per session",
+  "n_days": 61,
+  "n_ev_days": 30500,
+  "smart_carbon_kg": 29552.073559929133,
+  "v2g_carbon_kg": 27634.644242222454,
+  "incremental_saving_kg": 1917.4293177066793,
+  "incremental_saving_percent": 6.488307203954041,
+  "v2g_import_kwh": 235779.90429209993,
+  "v2g_export_kwh": 72969.76850324131,
+  "active_share_percent": 38.662295081967216,
+  "max_import_kw": 2963.3162429739364,
+  "max_export_kw": 1708.3614324785638,
+  "max_abs_ramp_kw_per_15min": 2984.435726456476,
+  "ready_30min_early_percent": 84.74426229508197,
+  "ready_60min_early_percent": 79.05245901639344
+}

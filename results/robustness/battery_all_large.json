@@ -1,0 +1,19 @@
+{
+  "case": "battery_all_large",
+  "category": "battery_archetype",
+  "value": "100% large",
+  "n_days": 61,
+  "n_ev_days": 30500,
+  "smart_carbon_kg": 36315.98738473269,
+  "v2g_carbon_kg": 34036.22484468034,
+  "incremental_saving_kg": 2279.7625400523466,
+  "incremental_saving_percent": 6.277572783304697,
+  "v2g_import_kwh": 286808.1197145479,
+  "v2g_export_kwh": 87676.3716886592,
+  "active_share_percent": 38.34098360655738,
+  "max_import_kw": 3092.085781425422,
+  "max_export_kw": 1979.6731667651366,
+  "max_abs_ramp_kw_per_15min": 3189.237554299921,
+  "ready_30min_early_percent": 84.28852459016395,
+  "ready_60min_early_percent": 78.6032786885246
+}

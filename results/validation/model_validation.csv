@@ -1,0 +1,9 @@
+check,status,details
+SOC and exact departure target,PASS,max_smart_departure_soc_error=2.220446049250313e-16; max_v2g_departure_soc_error=2.220446049250313e-16; minimum_v2g_soc=0.20510170453658444; maximum_v2g_soc=0.9500000000000001
+Energy balance and throughput cap,PASS,max_smart_energy_balance_error_kwh=1.4210854715202004e-14; max_v2g_energy_balance_error_kwh=2.842170943040401e-14; max_discharge_cap_violation_kwh=1.7763568394002505e-15
+Strategy dominance,PASS,maximum_smart_vs_uc_violation_kg=0.0; maximum_v2g_vs_smart_violation_kg=0.0
+No simultaneous charge/discharge,PASS,simultaneous_intervals=0
+Flat carbon,PASS,uc_carbon_kg=1.5811388300841913; sc_carbon_kg=1.5811388300841909; v2g_carbon_kg=1.5811388300841909; v2g_export_kwh=0.0
+Two-period carbon break-even,PASS,low_ci_kg_per_kwh=0.2; analytical_threshold_kg_per_kwh=0.22222222222222224; below_threshold_export_kwh=0.0; above_threshold_export_kwh=1.6199999999999999
+Zero flexibility,PASS,uc_carbon_kg=0.2936842105263153; sc_carbon_kg=0.2936842105263153; v2g_carbon_kg=0.2936842105263153
+All daily solves optimal,PASS,nonoptimal_smart_days=0; nonoptimal_v2g_days=0

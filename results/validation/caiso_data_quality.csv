@@ -1,0 +1,8 @@
+check,value,status
+monthly workbooks,12.0,PASS
+calendar dates,365.0,PASS
+source hourly rows,8752.0,PASS
+normalized hourly rows,8760.0,PASS
+imputed clock hours,9.0,DOCUMENTED
+AER minimum kgCO2e/kWh,0.088,PASS
+AER maximum kgCO2e/kWh,0.415,PASS

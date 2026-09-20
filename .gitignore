@@ -1,0 +1,30 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.Rhistory
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+results/logs/
+
+# Temporary and backup files
+tmp/
+temp/
+*.tmp
+*.bak

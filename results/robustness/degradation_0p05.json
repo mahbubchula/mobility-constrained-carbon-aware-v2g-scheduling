@@ -1,0 +1,19 @@
+{
+  "case": "degradation_0p05",
+  "category": "degradation",
+  "value": "0.05 kg CO2e-equivalent/kWh export",
+  "n_days": 61,
+  "n_ev_days": 30500,
+  "smart_carbon_kg": 29552.073559929133,
+  "v2g_carbon_kg": 28843.32811735289,
+  "incremental_saving_kg": 708.7454425762444,
+  "incremental_saving_percent": 2.3982934433990493,
+  "v2g_import_kwh": 166420.3766336847,
+  "v2g_export_kwh": 10546.193610667637,
+  "active_share_percent": 6.19344262295082,
+  "max_import_kw": 2145.74955467082,
+  "max_export_kw": 690.0331778644743,
+  "max_abs_ramp_kw_per_15min": 1901.4393322612407,
+  "ready_30min_early_percent": 84.77704918032786,
+  "ready_60min_early_percent": 78.66885245901639
+}

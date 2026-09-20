@@ -1,0 +1,17 @@
+\begin{tabular}{llrlll}
+\toprule
+parameter & symbol & base\_value & unit & source\_or\_rationale & sensitivity\_range \\
+\midrule
+EV-days per day & N & 500 & EV/day & Study design & — \\
+Time step & Δt & 15 & min & Study design & — \\
+Minimum SOC & SOCmin & 0.2 & fraction & Operational assumption & — \\
+Maximum SOC & SOCmax & 0.95 & fraction & Operational assumption & — \\
+Nominal target SOC & SOCstandard & 0.8 & fraction & User-energy assumption & 0.70–0.90 \\
+Mobility reserve & SOCreserve & 0.15 & fraction & Conservative mobility reserve & — \\
+Round-trip efficiency & ηrt & 0.9 & fraction & Technical assumption & 0.80–0.95 \\
+Charging power & Pch,max & 7.2 & kW & Level-2 workplace charging & 3.6–11 \\
+Discharging power & Pdis,max & 7.2 & kW & Symmetric V2G interface & 3.6–11 \\
+Session export cap & Edis,max/B & 0.25 & fraction & Conservative cycling limit & — \\
+Bootstrap draws & B & 2000 & draws & Study design & — \\
+\bottomrule
+\end{tabular}

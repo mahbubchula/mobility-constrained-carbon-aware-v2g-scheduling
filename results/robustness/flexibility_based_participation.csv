@@ -1,0 +1,17 @@
+participation_fraction,selection_method,incremental_saving_kg,share_of_full_saving_percent
+0.25,random_expected,3408.284978913932,25.0
+0.25,high_flexibility,3320.5109873772017,24.356171857108762
+0.25,high_flexibility_x_carbon_opportunity,7411.60901445564,54.364651579233474
+0.25,oracle_upper_bound,12602.275525866316,92.43854023235242
+0.5,random_expected,6816.569957827864,50.0
+0.5,high_flexibility,7871.232779822461,57.73602287161644
+0.5,high_flexibility_x_carbon_opportunity,12254.120234691927,89.88479770987905
+0.5,oracle_upper_bound,13633.139915655727,100.0
+0.75,random_expected,10224.854936741795,74.99999999999999
+0.75,high_flexibility,11497.02998371725,84.33148969970257
+0.75,high_flexibility_x_carbon_opportunity,13572.472112513173,99.55499757562903
+0.75,oracle_upper_bound,13633.139915655727,100.0
+1.0,random_expected,13633.139915655727,100.0
+1.0,high_flexibility,13633.139915655727,100.0
+1.0,high_flexibility_x_carbon_opportunity,13633.139915655727,100.0
+1.0,oracle_upper_bound,13633.139915655727,100.0
